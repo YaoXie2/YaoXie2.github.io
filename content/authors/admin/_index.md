@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'yaoxie1001@gmail.com'
     label: E-mail Me
-  - icon: custom/c-solid
+  - icon: "custom/c-solid"
     url: https://blog.csdn.net/messyking?spm=1000.2115.3001.5343
   - icon: brands/github
     url: https://github.com/yao-papercodes
