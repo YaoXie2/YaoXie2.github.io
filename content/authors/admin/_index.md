@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuhao Xie 谢育浩
+title: Yuhao Xie (谢育浩)
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -24,47 +24,36 @@ role: MS Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Xidian University
+    url: https://www.xidian.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'yaoxie1001@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: custom/c-solid
+    url: https://blog.csdn.net/messyking?spm=1000.2115.3001.5343
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/yao-papercodes
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=_jNE3nIAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-9428-2680
 
 interests:
-  - Artificial Intelligence
   - Computer Vision
-  - Deep Learning
+  - Domain Adaptation
+  - Remote Sensing
+  - Facial Expression Recognition
+  - Multi-Label Recognition
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng Computer Computer Technology
+    institution: Xidian University
+    date_start: 2023-09-01
+    date_end: present
     summary: |
       GPA: 3.8/4.0
 
@@ -72,12 +61,12 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Software Engineering
+    institution: South China Agricultural University
+    date_start: 2019-09-01
+    date_end: 2023-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 4.12/5.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -183,4 +172,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yuhao Xie is currently pursuing his master's degree at the Key Laboratory of Intelligent Perception and Image Understanding, Ministry of Education, Xidian University. His research interests include deep computer vision, domain adaptation, hyperspectral remote sensing, facial expression recognition, and multi-label recognition.
