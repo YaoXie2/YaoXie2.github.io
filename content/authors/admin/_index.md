@@ -35,7 +35,7 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/yao-papercodes
-  - icon: custom/pen-to-square-regular
+  - icon: custom/c-solid
     url: https://blog.csdn.net/messyking?spm=1000.2115.3001.5343
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=_jNE3nIAAAAJ&hl=en
