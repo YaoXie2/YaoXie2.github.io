@@ -44,8 +44,8 @@ profiles:
 
 interests:
   - Computer Vision, Multimodel
-  - Transfer Learning, Domain Adaptation
-  - Hyperspectral Remote Sensing
+  - Transfer Learning
+  - Remote Sensing
   - Facial Expression Recognition
   - Multi-Label Recognition
 
@@ -172,4 +172,4 @@ awards:
 
 ## About Me
 
-Yuhao Xie is currently pursuing his master's degree at the Key Laboratory of Intelligent Perception and Image Understanding, Ministry of Education, Xidian University. His research interests include computer vision, domain adaptation, hyperspectral remote sensing, facial expression recognition, and multi-label recognition.
+Yuhao Xie is currently pursuing his master's degree at the Key Laboratory of Intelligent Perception and Image Understanding, Ministry of Education, Xidian University. His research interests include computer vision, multimodel, transfer learning (domain adaptation), facial expression recognition, remote sensing, and multi-label recognition.
