@@ -43,9 +43,9 @@ profiles:
     url: https://orcid.org/0000-0002-9428-2680
 
 interests:
-  - Computer Vision
-  - Domain Adaptation
-  - Remote Sensing
+  - Computer Vision, Multimodel
+  - Transfer Learning, Domain Adaptation
+  - Hyperspectral Remote Sensing
   - Facial Expression Recognition
   - Multi-Label Recognition
 
