@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuhao Xie (谢育浩)
+title: Yuhao Xie (谢育浩zhazha)
 
 # Name pronunciation (optional)
 name_pronunciation: ''
